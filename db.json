@@ -1,0 +1,28 @@
+{"Products": [
+  {
+  "id": 1,
+  "productName": "MiBand 5",
+  "productDetails":"The smartwatch is great for fashion enthusiasts and comes at an affordable price. The smartwatch features a 1.1 inches AMOLED 2.5D colorful touchscreen that provides a resolution of 126 x 294 pixels.",
+  "Price":"₹1,990",
+  "img":"https://i01.appmifile.com/webfile/globalimg/mi-band-5/bg1.jpg"
+},
+  {
+    "id": 2,
+    "productName": "Nike Air Max",
+    "productDetails":" Nike Air Max shoes are ideal for everyone who are looking for both comfort and style. With great soles and comfortable cushioning, these shoes will keep you ...",
+    "Price":"₹4,840",
+    "img":"./border.png"
+  },
+  {"id": 3,
+  "productName": "MiBand 5",
+  "productDetails":"Capacity: 1.5 Ton. Suitable for medium sized rooms (111 to 150 sq ft), Power Features: 230 V / 50 Hz Energy Rating: 5 Star. Best in class efficiency. Annual Energy Consumption: 1157.29 units. Refrigerant gas: R22",
+  "Price":"₹27,990"
+},
+{"id": 4,
+"productName": "hp pavilion x360",
+"productDetails":"Adapts to your view: The extremely flexible, HP Pavilion x360 14 inch 2-in-1 Laptop PC will blow you away with its compact size. With four modes, you'll find just the right angle for anything that comes your way.",
+"Price":"₹53,990"
+}
+
+  ]
+  }
