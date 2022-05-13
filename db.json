@@ -1,56 +1,6 @@
 {
    "Products":[
       {
-         "id":6,
-         "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-         "price":109.95,
-         "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-         "category":"men's clothing",
-         "image":"https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-         "rating":3.9,
-         "qnty":0
-      },
-      {
-         "id":7,
-         "title":"Mens Casual Premium Slim Fit T-Shirts ",
-         "price":22.3,
-         "description":"Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-         "category":"men's clothing",
-         "image":"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-         "rating":4.1,
-         "qnty":0
-      },
-      {
-         "id":8,
-         "title":"Mens Cotton Jacket",
-         "price":55.99,
-         "description":"great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-         "category":"men's clothing",
-         "image":"https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-         "rating":4.7,
-         "qnty":0
-      },
-      {
-         "id":9,
-         "title":"Mens Casual Slim Fit",
-         "price":15.99,
-         "description":"The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-         "category":"men's clothing",
-         "image":"https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-         "rating":2.1,
-         "qnty":0
-      },
-      {
-         "id":10,
-         "title":"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-         "price":695,
-         "description":"From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-         "category":"jewelery",
-         "image":"https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-         "rating":4.6,
-         "qnty":0
-      },
-      {
          "id":1,
          "title":"iPhone 9",
          "description":"An apple mobile which is nothing like apple",
@@ -60,8 +10,8 @@
          "stock":94,
          "brand":"Apple",
          "category":"smartphones",
-         "thumbnail":"https://dummyjson.com/image/i/products/1/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/1/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/1/1.jpg",
+         "qnty":0
       },
       {
          "id":2,
@@ -73,8 +23,8 @@
          "stock":34,
          "brand":"Apple",
          "category":"smartphones",
-         "thumbnail":"https://dummyjson.com/image/i/products/2/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/2/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/2/1.jpg",
+         "qnty":0
       },
       {
          "id":3,
@@ -86,7 +36,6 @@
          "stock":36,
          "brand":"Samsung",
          "category":"smartphones",
-         "thumbnail":"https://dummyjson.com/image/i/products/3/thumbnail.jpg",
          "image":"https://dummyjson.com/image/i/products/3/1.jpg"
       },
       {
@@ -99,8 +48,8 @@
          "stock":123,
          "brand":"OPPO",
          "category":"smartphones",
-         "thumbnail":"https://dummyjson.com/image/i/products/4/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/4/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/4/1.jpg",
+         "qnty":0
       },
       {
          "id":5,
@@ -112,8 +61,8 @@
          "stock":32,
          "brand":"Huawei",
          "category":"smartphones",
-         "thumbnail":"https://dummyjson.com/image/i/products/5/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/5/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/5/1.jpg",
+         "qnty":0
       },
       {
          "id":11,
@@ -125,8 +74,8 @@
          "stock":65,
          "brand":"Impression of Acqua Di Gio",
          "category":"fragrances",
-         "thumbnail":"https://dummyjson.com/image/i/products/11/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/11/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/11/1.jpg",
+         "qnty":0
       },
       {
          "id":12,
@@ -138,8 +87,8 @@
          "stock":52,
          "brand":"Royal_Mirage",
          "category":"fragrances",
-         "thumbnail":"https://dummyjson.com/image/i/products/12/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/12/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/12/1.jpg",
+         "qnty":0
       },
       {
          "id":13,
@@ -151,8 +100,8 @@
          "stock":61,
          "brand":"Fog Scent Xpressio",
          "category":"fragrances",
-         "thumbnail":"https://dummyjson.com/image/i/products/13/thumbnail.webp",
-         "image":"https://dummyjson.com/image/i/products/13/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/13/1.jpg",
+         "qnty":0
       },
       {
          "id":14,
@@ -164,8 +113,8 @@
          "stock":114,
          "brand":"Al Munakh",
          "category":"fragrances",
-         "thumbnail":"https://dummyjson.com/image/i/products/14/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/14/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/14/1.jpg",
+         "qnty":0
       },
       {
          "id":15,
@@ -177,8 +126,8 @@
          "stock":105,
          "brand":"Lord - Al-Rehab",
          "category":"fragrances",
-         "thumbnail":"https://dummyjson.com/image/i/products/15/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/15/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/15/1.jpg",
+         "qnty":0
       },
       {
          "id":16,
@@ -190,8 +139,8 @@
          "stock":110,
          "brand":"L'Oreal Paris",
          "category":"skincare",
-         "thumbnail":"https://dummyjson.com/image/i/products/16/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/16/1.png"
+         "image":"https://dummyjson.com/image/i/products/16/1.png",
+         "qnty":0
       },
       {
          "id":17,
@@ -203,8 +152,8 @@
          "stock":78,
          "brand":"Hemani Tea",
          "category":"skincare",
-         "thumbnail":"https://dummyjson.com/image/i/products/17/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/17/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/17/1.jpg",
+         "qnty":0
       },
       {
          "id":18,
@@ -216,8 +165,8 @@
          "stock":88,
          "brand":"Dermive",
          "category":"skincare",
-         "thumbnail":"https://dummyjson.com/image/i/products/18/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/18/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/18/1.jpg",
+         "qnty":0
       },
       {
          "id":19,
@@ -229,8 +178,8 @@
          "stock":54,
          "brand":"ROREC White Rice",
          "category":"skincare",
-         "thumbnail":"https://dummyjson.com/image/i/products/19/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/19/1.jpg"
+         "image":"https://dummyjson.com/image/i/products/19/1.jpg",
+         "qnty":0
       },
       {
          "id":20,
@@ -242,8 +191,73 @@
          "stock":140,
          "brand":"Fair & Clear",
          "category":"skincare",
-         "thumbnail":"https://dummyjson.com/image/i/products/20/thumbnail.jpg",
-         "image":"https://dummyjson.com/image/i/products/20/1.jpg"
+         "images":"https://dummyjson.com/image/i/products/20/1.jpg",
+         "qnty":0
+      },
+      {
+         "id":21,
+         "title":"- Daal Masoor 500 grams",
+         "description":"Fine quality Branded Product Keep in a cool and dry place",
+         "price":20,
+         "discountPercentage":4.81,
+         "rating":4.44,
+         "stock":133,
+         "brand":"Saaf & Khaas",
+         "category":"groceries",
+         "image":"https://dummyjson.com/image/i/products/21/1.png",
+         "qnty":0
+      },
+      {
+         "id":22,
+         "title":"Elbow Macaroni - 400 gm",
+         "description":"Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+         "price":14,
+         "discountPercentage":15.58,
+         "rating":4.57,
+         "stock":146,
+         "brand":"Bake Parlor Big",
+         "category":"groceries",
+         "image":"https://dummyjson.com/image/i/products/22/1.jpg",
+         "qnty":0
+      },
+      {
+         "id":23,
+         "title":"Orange Essence Food Flavou",
+         "description":"Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+         "price":14,
+         "discountPercentage":8.04,
+         "rating":4.85,
+         "stock":26,
+         "brand":"Baking Food Items",
+         "category":"groceries",
+         "image":"https://dummyjson.com/image/i/products/23/1.jpg",
+         "qnty":0
+      },
+      {
+         "id":24,
+         "title":"cereals muesli fruit nuts",
+         "description":"original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+         "price":46,
+         "discountPercentage":16.8,
+         "rating":4.94,
+         "stock":113,
+         "brand":"fauji",
+         "category":"groceries",
+         "image":"https://dummyjson.com/image/i/products/24/1.jpg",
+         "qnty":0
+      },
+      {
+         "id":25,
+         "title":"Gulab Powder 50 Gram",
+         "description":"Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+         "price":70,
+         "discountPercentage":13.58,
+         "rating":4.87,
+         "stock":47,
+         "brand":"Dry Rose",
+         "category":"groceries",
+         "image":"https://dummyjson.com/image/i/products/25/1.png",
+         "qnty":0
       }
    ]
 }
