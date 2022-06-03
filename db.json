@@ -24,7 +24,7 @@
       "brand":"Apple",
       "category":"smartphones",
       "image":"https://dummyjson.com/image/i/products/2/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":3,
@@ -36,7 +36,8 @@
       "stock":36,
       "brand":"Samsung",
       "category":"smartphones",
-      "image":"https://dummyjson.com/image/i/products/3/1.jpg"
+      "image":"https://dummyjson.com/image/i/products/3/1.jpg",
+      "qnty":1
    },
    {
       "id":4,
@@ -49,7 +50,7 @@
       "brand":"OPPO",
       "category":"smartphones",
       "image":"https://dummyjson.com/image/i/products/4/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":5,
@@ -62,7 +63,7 @@
       "brand":"Huawei",
       "category":"smartphones",
       "image":"https://dummyjson.com/image/i/products/5/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":11,
@@ -75,7 +76,7 @@
       "brand":"Impression of Acqua Di Gio",
       "category":"fragrances",
       "image":"https://dummyjson.com/image/i/products/11/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":12,
@@ -88,7 +89,7 @@
       "brand":"Royal_Mirage",
       "category":"fragrances",
       "image":"https://dummyjson.com/image/i/products/12/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":13,
@@ -101,7 +102,7 @@
       "brand":"Fog Scent Xpressio",
       "category":"fragrances",
       "image":"https://dummyjson.com/image/i/products/13/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":14,
@@ -114,7 +115,7 @@
       "brand":"Al Munakh",
       "category":"fragrances",
       "image":"https://dummyjson.com/image/i/products/14/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":15,
@@ -127,7 +128,7 @@
       "brand":"Lord - Al-Rehab",
       "category":"fragrances",
       "image":"https://dummyjson.com/image/i/products/15/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":16,
@@ -140,7 +141,7 @@
       "brand":"L'Oreal Paris",
       "category":"skincare",
       "image":"https://dummyjson.com/image/i/products/16/1.png",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":17,
@@ -153,7 +154,7 @@
       "brand":"Hemani Tea",
       "category":"skincare",
       "image":"https://dummyjson.com/image/i/products/17/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":18,
@@ -166,7 +167,7 @@
       "brand":"Dermive",
       "category":"skincare",
       "image":"https://dummyjson.com/image/i/products/18/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":19,
@@ -179,7 +180,7 @@
       "brand":"ROREC White Rice",
       "category":"skincare",
       "image":"https://dummyjson.com/image/i/products/19/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":20,
@@ -192,7 +193,7 @@
       "brand":"Fair & Clear",
       "category":"skincare",
       "image":"https://dummyjson.com/image/i/products/20/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":21,
@@ -205,7 +206,7 @@
       "brand":"Saaf & Khaas",
       "category":"groceries",
       "image":"https://dummyjson.com/image/i/products/21/1.png",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":22,
@@ -218,7 +219,7 @@
       "brand":"Bake Parlor Big",
       "category":"groceries",
       "image":"https://dummyjson.com/image/i/products/22/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":23,
@@ -231,7 +232,7 @@
       "brand":"Baking Food Items",
       "category":"groceries",
       "image":"https://dummyjson.com/image/i/products/23/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":24,
@@ -244,7 +245,7 @@
       "brand":"fauji",
       "category":"groceries",
       "image":"https://dummyjson.com/image/i/products/24/1.jpg",
-      "qnty":0
+      "qnty":1
    },
    {
       "id":25,
@@ -257,7 +258,7 @@
       "brand":"Dry Rose",
       "category":"groceries",
       "image":"https://dummyjson.com/image/i/products/25/1.png",
-      "qnty":0
+      "qnty":1
    }
 ]
 }
