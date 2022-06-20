@@ -6,7 +6,7 @@
       "description":"An apple mobile which is nothing like apple",
       "price":54900,
       "discountPercentage":12.96,
-      "rating":4.69,
+      "rating":"★★★★",
       "stock":94,
       "brand":"Apple",
       "category":"smartphones",
