@@ -15,7 +15,8 @@
    },
   {
       "id":2,
-      "title":"APPLE iPhone X (Space Gray, 64 GB)",
+      "title":"iPhone X",
+      "subTitle":"APPLE iPhone X (Space Gray, 64 GB)",
       "description":"Meet the iPhone X - the device that's so smart that it responds to a tap, your voice, and even a glance. Elegantly designed with a large 14.73 cm (5.8) Super Retina screen and a durable front-and-back glass, this smartphone is designed to impress. What's more, you can charge this iPhone wirelessly.",
       "itemDetail":"6.1-inch (15.5 cm diagonal) Super Retina XDR display, Ceramic Shield, tougher than any smartphone glass, A14 Bionic chip, the fastest chip ever in a smartphone, Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording, 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording, Supports MagSafe accessories for easy attach and faster wireless charging, iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more.",
       "price":89900,
@@ -76,7 +77,7 @@
       "stock": 83,
       "brand": "APPle",
       "category": "smartphones",
-      "images": "https://dummyjson.com/image/i/products/6/1.png"
+      "images": "https://dummyjson.com/image/i/products/6/4.jpg"
     },
    {
       "id":11,
