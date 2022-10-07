@@ -66,6 +66,18 @@
       "qnty":1
    },
    {
+      "id": 6,
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "APPle",
+      "category": "smartphones",
+      "images": "https://dummyjson.com/image/i/products/6/1.png"
+    },
+   {
       "id":11,
       "title":"perfume Oil",
       "description":"Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
@@ -259,18 +271,6 @@
       "category":"groceries",
       "image":"https://dummyjson.com/image/i/products/25/1.png",
       "qnty":1
-   },
-   {
-      "id": 26,
-      "title": "MacBook Pro",
-      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-      "price": 1749,
-      "discountPercentage": 11.02,
-      "rating": 4.57,
-      "stock": 83,
-      "brand": "APPle",
-      "category": "smartphones",
-      "images": "https://dummyjson.com/image/i/products/26/1.png"
-    }
+   }
 ]
 }
