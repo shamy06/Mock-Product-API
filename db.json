@@ -53,7 +53,7 @@
    {
       "id":5,
       "title":"Huawei P30",
-      "subTitle:"Huawei P30 Lite (Peacock Blue, 128 GB)"
+      "subTitle":"Huawei P30 Lite (Peacock Blue, 128 GB)"
       "description":"The Huawei features a 6000 mAh battery to ensure that you get your fill of productivity and entertainment. Its 16.56cm (6.52) HD+ Full View Dew Drop Display gives you an expansive view and immersive experience while streaming content, gaming, video calling your loved ones, and more. You can stay connected at all times as this mobile phone offers up to 34 days of standby, 60 hours of calling, and much more.",
       "specifications":[{"ModelNumber":"Lite","Color":"Blue"},{"OS":"Android 11","Memory":"128GB"}],
       "price":499,
@@ -185,63 +185,6 @@
       "brand":"Fair & Clear",
       "category":"skincare",
       "image":"https://dummyjson.com/image/i/products/20/1.jpg",
-      "qnty":1
-   },
-   {
-      "id":21,
-      "title":"Daal Masoor 500 grams",
-      "description":"Fine quality Branded Product Keep in a cool and dry place",
-      "price":20,
-      "discountPercentage":4.81,
-      "rating":4,
-      "stock":133,
-      "brand":"Saaf & Khaas",
-      "category":"groceries",
-      "image":"https://dummyjson.com/image/i/products/21/1.png",
-      "qnty":1
-   },
-   {
-      "id":22,
-      "title":"Elbow Macaroni - 400 gm",
-      "description":"Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
-      "price":14,
-      "rating":1.5,
-      "brand":"Bake Parlor Big",
-      "category":"groceries",
-      "image":"https://dummyjson.com/image/i/products/22/1.jpg",
-      "qnty":1
-   },
-   {
-      "id":23,
-      "title":"Orange Essence Flavour",
-      "description":"Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
-      "price":14,
-      "rating":3.5,
-      "brand":"Baking Food Items",
-      "category":"groceries",
-      "image":"https://dummyjson.com/image/i/products/23/1.jpg",
-      "qnty":1
-   },
-   {
-      "id":24,
-      "title":"cereals muesli fruit nuts",
-      "description":"original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
-      "price":46,
-      "rating":3,
-      "brand":"fauji",
-      "category":"groceries",
-      "image":"https://dummyjson.com/image/i/products/24/1.jpg",
-      "qnty":1
-   },
-   {
-      "id":25,
-      "title":"Gulab Powder 50 Gram",
-      "description":"Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
-      "price":70,
-      "rating":4.5,
-      "brand":"Dry Rose",
-      "category":"groceries",
-      "image":"https://dummyjson.com/image/i/products/25/1.png",
       "qnty":1
    }
 ]
