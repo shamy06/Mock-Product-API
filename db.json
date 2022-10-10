@@ -3,8 +3,10 @@
    {
       "id":1,
       "title":"iPhone 9",
-      "description":"An apple mobile which is nothing like apple",
+      "subTitle":"APPLE iPhone 9 (Black, 64 GB)",
+      "description":"An all-new glass design, an updated camera, and a powerful chip, there's so much to love about the iPhone 9. This iPhone brings you an augmented reality experience that's more immersive than before. What's more? You can charge your iPhone wirelessly!",
       "price":54900,
+      "specifications":[{"ModelNumber":"MQ8E2HN/A","Color":"Black"},{"OS":"ios 12","Memory":"64GB"}],
       "rating":4,
       "brand":"Apple",
       "category":"smartphones",
@@ -73,7 +75,8 @@
       "rating": 4.57,
       "brand": "APPle",
       "category": "smartphones",
-      "image": "https://dummyjson.com/image/i/products/6/4.jpg"
+      "image": "https://dummyjson.com/image/i/products/6/4.jpg",
+      "qnty":1
     },
    {
       "id":11,
