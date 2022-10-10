@@ -53,7 +53,9 @@
    {
       "id":5,
       "title":"Huawei P30",
-      "description":"Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "subTitle:"Huawei P30 Lite (Peacock Blue, 128 GB)"
+      "description":"The Huawei features a 6000 mAh battery to ensure that you get your fill of productivity and entertainment. Its 16.56cm (6.52) HD+ Full View Dew Drop Display gives you an expansive view and immersive experience while streaming content, gaming, video calling your loved ones, and more. You can stay connected at all times as this mobile phone offers up to 34 days of standby, 60 hours of calling, and much more.",
+      "specifications":[{"ModelNumber":"Lite","Color":"Blue"},{"OS":"Android 11","Memory":"128GB"}],
       "price":499,
       "rating":4,
       "brand":"Huawei",
@@ -64,8 +66,10 @@
    {
       "id": 6,
       "title": "MacBook Pro",
-      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "subTitle":"13-inch MacBook Pro: Apple M1 chip",
+      "description": "M1 revolutionises the Laptop industry with SOC architecture to lead the industry to new heights. All the power with great efficiency as it even lasts loooonger now. Available in Space Grey and Silver colour. Up to 2.8X CPU performance, Up to 5X faster graphics, Up to 11x faster Neural Engine, Up to 20 hours of battery life. That’s 6 more hours, free of charge, Up to 2TB SSD storage, Up to 2X faster SSD, Wi-Fi 6 up to 1.2Gb/s throughput, Thunderbolt / USB 4 supports 6K External display, Data transfer up to 40Gb",
       "price": 1749,
+      "specifications":[{"ModelNumber":"MK1A3HN/A","Color":"Grey"},{"OS":"8-core CPU with 4 perform­ance cores and 4 efficiency cores","Memory":"256 GB SSD, Configurable up to 2TB"}],
       "rating": 4.57,
       "brand": "APPle",
       "category": "smartphones",
