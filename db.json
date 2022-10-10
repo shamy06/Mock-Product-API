@@ -19,7 +19,7 @@
       "subTitle":"APPLE iPhone X (Space Gray, 64 GB)",
       "description":"Meet the iPhone X - the device that's so smart that it responds to a tap, your voice, and even a glance. Elegantly designed with a large 14.73 cm (5.8) Super Retina screen and a durable front-and-back glass, this smartphone is designed to impress. What's more, you can charge this iPhone wirelessly.",
       "price":89900,
-      "specifications":[{"ModelNumber":"MQA52HN/A","Color":"Grey","OS":"ios 11","Memory":"64GB"}],
+      "specifications":{"ModelNumber":"MQA52HN/A","Color":"Grey","OS":"ios 11","Memory":"64GB"},
       "rating":5,
       "brand":"Apple",
       "category":"smartphones",
