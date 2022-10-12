@@ -25,6 +25,7 @@
       "brand":"Apple",
       "category":"smartphones",
       "image":"https://dummyjson.com/image/i/products/2/1.jpg",
+      "thumbnails":["https://dummyjson.com/image/i/products/2/1.jpg","https://dummyjson.com/image/i/products/2/2.jpg","https://dummyjson.com/image/i/products/2/3.jpg"],
       "qnty":1
    },
    {
@@ -38,6 +39,7 @@
       "brand":"Samsung",
       "category":"smartphones",
       "image":"https://dummyjson.com/image/i/products/3/1.jpg",
+      "thumbnails":[""],
       "qnty":1
    },
    {
@@ -51,6 +53,7 @@
       "brand":"Oppo",
       "category":"smartphones",
       "image":"https://dummyjson.com/image/i/products/4/1.jpg",
+      "thumbnails":["https://dummyjson.com/image/i/products/4/1.jpg","https://dummyjson.com/image/i/products/4/2.jpg","https://dummyjson.com/image/i/products/4/3.jpg","https://dummyjson.com/image/i/products/4/4.jpg"],
       "qnty":1
    },
    {
@@ -64,6 +67,7 @@
       "brand":"Huawei",
       "category":"smartphones",
       "image":"https://dummyjson.com/image/i/products/5/1.jpg",
+      "thumbnails":["https://dummyjson.com/image/i/products/5/1.jpg","https://dummyjson.com/image/i/products/5/2.jpg","https://dummyjson.com/image/i/products/5/3.jpg"],
       "qnty":1
    },
    {
@@ -124,6 +128,7 @@
       "brand":"Impression of Acqua Di Gio",
       "category":"fragrances",
       "image":"https://dummyjson.com/image/i/products/11/1.jpg",
+      "thumbnails":["https://dummyjson.com/image/i/products/11/1.jpg","https://dummyjson.com/image/i/products/11/2.jpg","https://dummyjson.com/image/i/products/11/3.jpg"],
       "qnty":1
    },
    {
@@ -135,6 +140,7 @@
       "brand":"Royal_Mirage",
       "category":"fragrances",
       "image":"https://dummyjson.com/image/i/products/12/1.jpg",
+      "thumbnails":["https://dummyjson.com/image/i/products/12/1.jpg","https://dummyjson.com/image/i/products/12/2.jpg","https://dummyjson.com/image/i/products/12/3.png","https://dummyjson.com/image/i/products/12/4.jpg"],
       "qnty":1
    },
    {
