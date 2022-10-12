@@ -47,7 +47,7 @@
       "price":280,
       "specifications":{"ModelNumber":"CPH2219","Color":"Midnight Blue","OS":"Android 11","Memory":"128GB"},
       "rating":2.5,
-      "brand":"OPPO",
+      "brand":"Oppo",
       "category":"smartphones",
       "image":"https://dummyjson.com/image/i/products/4/1.jpg",
       "qnty":1
@@ -73,7 +73,7 @@
       "price": 1749,
       "specifications":{"ModelNumber":"MK1A3HN/A","Color":"Grey","OS":"8-core CPU with 4 performance cores and 4 efficiency cores","Memory":"256 GB SSD, Configurable up to 2TB"},
       "rating": 4.57,
-      "brand": "APPle",
+      "brand": "Apple",
       "category": "smartphones",
       "image": "https://dummyjson.com/image/i/products/6/4.jpg",
       "qnty":1
