@@ -71,7 +71,7 @@
       "subTitle":"13-inch MacBook Pro: Apple M1 chip",
       "description": "M1 revolutionises the Laptop industry with SOC architecture to lead the industry to new heights. All the power with great efficiency as it even lasts loooonger now. Available in Space Grey and Silver colour. Up to 2.8X CPU performance, Up to 5X faster graphics, Up to 11x faster Neural Engine, Up to 20 hours of battery life. That’s 6 more hours, free of charge, Up to 2TB SSD storage, Up to 2X faster SSD, Wi-Fi 6 up to 1.2Gb/s throughput, Thunderbolt / USB 4 supports 6K External display, Data transfer up to 40Gb",
       "price": 1749,
-      "specifications":{"ModelNumber":"MK1A3HN/A","Color":"Grey","OS":"8-core CPU with 4 perform­ance cores and 4 efficiency cores","Memory":"256 GB SSD, Configurable up to 2TB"},
+      "specifications":{"ModelNumber":"MK1A3HN/A","Color":"Grey","OS":"8-core CPU with 4 performance cores and 4 efficiency cores","Memory":"256 GB SSD, Configurable up to 2TB"},
       "rating": 4.57,
       "brand": "APPle",
       "category": "smartphones",
@@ -93,7 +93,8 @@
       "rating": 4.25,
       "brand": "Samsung",
       "category": "laptops",
-      "images": "https://dummyjson.com/image/i/products/7/1.jpg"
+      "images": "https://dummyjson.com/image/i/products/7/1.jpg",
+      "qnty":1
     },
     {
       "id": 8,
@@ -110,7 +111,8 @@
       "rating": 4.43,
       "brand": "Microsoft Surface",
       "category": "laptops",
-      "images": "https://dummyjson.com/image/i/products/8/1.jpg"
+      "images": "https://dummyjson.com/image/i/products/8/1.jpg",
+      "qnty":1
     },
    {
       "id":11,
@@ -199,6 +201,6 @@
       "category":"skincare",
       "image":"https://dummyjson.com/image/i/products/18/1.jpg",
       "qnty":1
-   },
+   }
 ]
 }
