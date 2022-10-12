@@ -78,6 +78,40 @@
       "image": "https://dummyjson.com/image/i/products/6/4.jpg",
       "qnty":1
     },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "subTitile": "Samsung Galaxy Book Flex Intel Core i7 Processor 13.3 inches 1920 x 1080, QLED Business Laptop",
+      "description": "Samsung Galaxy Book Flex Laptop With Intel Core i7 Processor 13.3 inches 1920, 8GB of RAM Launched,Seamlessly convert your ultra-slim, Royal Blue aluminum device from laptop to tablet in seconds,fast-charging battery that lasts up to 20 hours, made complete with Wireless PowerShare’s ability to charge your other wireless devices right on the trackpad",
+      "price": 1499,
+      "specifications": {
+        "ModelNumber": "Galaxy Book Flex",
+        "Color": "Royal Blue",
+        "OS": "Windows 10 Home",
+        "Memory": "512 GB"
+      },
+      "rating": 4.25,
+      "brand": "Samsung",
+      "category": "laptops",
+      "images": "https://dummyjson.com/image/i/products/7/1.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Microsoft Surface Laptop 4",
+      "subTitle": "Microsoft Surface Laptop 4 11th Gen Intel® Core™ i5-1135G7 13.5 inch(34.2cm) Touchscreen Laptop",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.Easy to slip in your bag, 13.5” is ideal for productivity and portability Split the view in two. 15” is great for split-screen viewing of multiple apps side by side with Windows Snap Optimised 3:2 screen ratio is perfect for web browsing, research and reviewing finances Power to do what you want, from creative apps to casual gaming Great video calls, even in low light, with built-in HD camera backed by Studio Mics Breeze",
+      "price": 1499,
+      "specifications": {
+        "ModelNumber": "Microsoft Surface Laptop 4",
+        "Color": "Black",
+        "OS": "Windows 10 Home",
+        "Memory": "16512 GB"
+      },
+      "rating": 4.43,
+      "brand": "Microsoft Surface",
+      "category": "laptops",
+      "images": "https://dummyjson.com/image/i/products/8/1.jpg"
+    },
    {
       "id":11,
       "title":"perfume Oil",
