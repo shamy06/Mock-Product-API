@@ -93,7 +93,7 @@
       "rating": 4.25,
       "brand": "Samsung",
       "category": "laptops",
-      "images": "https://dummyjson.com/image/i/products/7/1.jpg",
+      "image": "https://dummyjson.com/image/i/products/7/1.jpg",
       "qnty":1
     },
     {
@@ -111,7 +111,7 @@
       "rating": 4.43,
       "brand": "Microsoft Surface",
       "category": "laptops",
-      "images": "https://dummyjson.com/image/i/products/8/1.jpg",
+      "image": "https://dummyjson.com/image/i/products/8/1.jpg",
       "qnty":1
     },
    {
