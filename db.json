@@ -128,7 +128,7 @@
       "brand":"Impression of Acqua Di Gio",
       "category":"fragrances",
       "image":"https://dummyjson.com/image/i/products/11/1.jpg",
-      "thumbnails":["https://dummyjson.com/image/i/products/11/1.jpg","https://dummyjson.com/image/i/products/11/2.jpg","https://dummyjson.com/image/i/products/11/3.jpg"],
+      "thumbnails":["https://dummyjson.com/image/i/products/11/1.jpg","https://dummyjson.com/image/i/products/11/2.jpg","https://dummyjson.com/image/i/products/11/3.jpg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TriU_GV3rXgRAv9piHOKwohxHZk-FtUI7A&usqp=CAU","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KFWN8Kx5Tpf77fXMCv1SA3ub16oSdIrC6Q&usqp=CAU"],
       "qnty":1
    },
    {
@@ -139,8 +139,8 @@
       "rating":4.5,
       "brand":"Royal_Mirage",
       "category":"fragrances",
-      "image":"https://dummyjson.com/image/i/products/12/1.jpg",
-      "thumbnails":["https://dummyjson.com/image/i/products/12/1.jpg","https://dummyjson.com/image/i/products/12/2.jpg","https://dummyjson.com/image/i/products/12/3.png","https://dummyjson.com/image/i/products/12/4.jpg"],
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSGVLNcFi-fstqvdHQ37pzQNLOJivcfBzXvw&usqp=CAU",
+      "thumbnails":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSGVLNcFi-fstqvdHQ37pzQNLOJivcfBzXvw&usqp=CAU","https://dummyjson.com/image/i/products/12/1.jpg","https://dummyjson.com/image/i/products/12/2.jpg","https://dummyjson.com/image/i/products/12/3.png","https://dummyjson.com/image/i/products/12/4.jpg"],
       "qnty":1
    },
    {
@@ -152,6 +152,7 @@
       "brand":"Fog Scent Xpressio",
       "category":"fragrances",
       "image":"https://dummyjson.com/image/i/products/13/1.jpg",
+      "thumbnails":["https://dummyjson.com/image/i/products/13/1.jpg","https://dummyjson.com/image/i/products/13/2.png","https://dummyjson.com/image/i/products/13/3.jpg","https://dummyjson.com/image/i/products/13/4.jpg","https://www.bigbasket.com/media/uploads/p/l/40046724-2_1-fogg-scent-xpressio-for-men.jpg"],
       "qnty":1
    }
 ]
