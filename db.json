@@ -86,25 +86,27 @@
     },
     {
       "id": 7,
-      "title": "Samsung Galaxy Book",
-      "subTitle": "Samsung Galaxy Book Flex Intel Core i7 Processor 13.3 inches 1920 x 1080, QLED Business Laptop",
-      "description": "Samsung Galaxy Book Flex Laptop With Intel Core i7 Processor 13.3 inches 1920, 8GB of RAM Launched,Seamlessly convert your ultra-slim, Royal Blue aluminum device from laptop to tablet in seconds,fast-charging battery that lasts up to 20 hours, made complete with Wireless PowerShare’s ability to charge your other wireless devices right on the trackpad",
+      "title": "Reamlme C30",
+      "subTitle": "realme C30 (Bamboo Green, 32 GB)  (2 GB RAM)",
+      "description": "Explore your inner self and be outspoken about it with the realme C30 smartphone which reflects your persona to the whole world with its intuitive nature. Powered by the Unisoc T612 processor, you can seamlessly multitask and get things done at your convenience. Furthermore, an 8 MP AI-driven rear camera and a 5 MP selfie camera allow you to capture stunning images with exceptional imagery. Moreover, this phone boasts 3 card slots which support a dual SIM setup with two slots and allow you to enjoy up to 1 TB of internal storage with the third slot.",
       "price": 1499,
       "specifications": {
-        "ModelNumber": "Galaxy Book Flex",
-        "Color": "Royal Blue",
-        "OS": "Windows 10 Home",
-        "Memory": "512 GB"
+        "ModelNumber": "RMX3581",
+        "Color": "Bamboo Green",
+        "OS": "Android 10",
+        "Memory": "64 GB"
       },
       "rating": 4.25,
-      "brand": "Samsung",
+      "brand": "Realme",
       "category": "smartphones",
-      "image": "https://dummyjson.com/image/i/products/7/1.jpg",
+      "image": "https://m.media-amazon.com/images/I/410AvIMf2vL._SX300_SY300_QL70_FMwebp_.jpg",
+      "thumbnails":["https://m.media-amazon.com/images/I/410AvIMf2vL._SX300_SY300_QL70_FMwebp_.jpg","https://m.media-amazon.com/images/I/51tLXun6YdL._SY550_.jpg","https://m.media-amazon.com/images/I/51UfViCaJSL._SX679_.jpg","https://m.media-amazon.com/images/I/51YDbXKVciL._SY550_.jpg","https://m.media-amazon.com/images/I/419pg5MCFSL._SY550_.jpg"],
       "qnty":1
     },
    {
       "id":11,
       "title":"perfume Oil",
+      "subTitle":"PERFUMERS CLUB Best Fragrance For Men | Set of 3 Eau De Parfum - 8ml Each |Refill For Lightr| Eau de Parfum - 24 ml",
       "description":"Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
       "price":13,
       "rating":3.5,
