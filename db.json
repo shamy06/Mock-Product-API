@@ -25,7 +25,7 @@
       "brand":"Apple",
       "category":"smartphones",
       "image":"https://dummyjson.com/image/i/products/2/1.jpg",
-      "thumbnails":["https://dummyjson.com/image/i/products/2/1.jpg","https://dummyjson.com/image/i/products/2/2.jpg","https://dummyjson.com/image/i/products/2/3.jpg"],
+      "thumbnails":["https://dummyjson.com/image/i/products/2/1.jpg","https://dummyjson.com/image/i/products/2/2.jpg","https://dummyjson.com/image/i/products/2/3.jpg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXXodSUusiilvZC7cu9B64qVNjpA4iLnIDw&usqp=CAU","https://m.media-amazon.com/images/I/71ET8SbL5XL._SX679_.jpg"],
       "qnty":1
    },
    {
@@ -38,8 +38,8 @@
       "rating":3.5,
       "brand":"Samsung",
       "category":"smartphones",
-      "image":"https://dummyjson.com/image/i/products/3/1.jpg",
-      "thumbnails":[""],
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw1CcTgGbD7tLPysXkSkHkNWWQGwyphW1UAg&usqp=CAU",
+      "thumbnails":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw1CcTgGbD7tLPysXkSkHkNWWQGwyphW1UAg&usqp=CAU","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzA_C43eio1CQrWjLbuA35UsFl2ud0EMosA&usqp=CAU","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7agiDd-dvvJPw6ecbLoV8jhX_ibAWnGdeg&usqp=CAU","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17AdDfKcMz-Y5fjxi5583OGZo9I9SSLI9zQ&usqp=CAU","https://dummyjson.com/image/i/products/3/1.jpg"],
       "qnty":1
    },
    {
@@ -53,7 +53,7 @@
       "brand":"Oppo",
       "category":"smartphones",
       "image":"https://dummyjson.com/image/i/products/4/1.jpg",
-      "thumbnails":["https://dummyjson.com/image/i/products/4/1.jpg","https://dummyjson.com/image/i/products/4/2.jpg","https://dummyjson.com/image/i/products/4/3.jpg","https://dummyjson.com/image/i/products/4/4.jpg"],
+      "thumbnails":["https://dummyjson.com/image/i/products/4/1.jpg","https://dummyjson.com/image/i/products/4/2.jpg","https://dummyjson.com/image/i/products/4/3.jpg","https://dummyjson.com/image/i/products/4/4.jpg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQkOUgFXk76Y9r51JSGdeUdhNSQn5uB6hzQ&usqp=CAU"],
       "qnty":1
    },
    {
@@ -67,7 +67,7 @@
       "brand":"Huawei",
       "category":"smartphones",
       "image":"https://dummyjson.com/image/i/products/5/1.jpg",
-      "thumbnails":["https://dummyjson.com/image/i/products/5/1.jpg","https://dummyjson.com/image/i/products/5/2.jpg","https://dummyjson.com/image/i/products/5/3.jpg"],
+      "thumbnails":["https://dummyjson.com/image/i/products/5/1.jpg","https://dummyjson.com/image/i/products/5/2.jpg","https://dummyjson.com/image/i/products/5/3.jpg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10jcCscOICuXQM4IWa4qq1DL8sQRGwJxohw&usqp=CAU","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFSA1prx8rJhmMTqOqeTEtTo9iH70ByaPF8A&usqp=CAU"],
       "qnty":1
    },
    {
@@ -99,24 +99,6 @@
       "brand": "Samsung",
       "category": "smartphones",
       "image": "https://dummyjson.com/image/i/products/7/1.jpg",
-      "qnty":1
-    },
-    {
-      "id": 8,
-      "title": "Microsoft Surface Laptop 4",
-      "subTitle": "Microsoft Surface Laptop 4 11th Gen Intel® Core™ i5-1135G7 13.5 inch(34.2cm) Touchscreen Laptop",
-      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.Easy to slip in your bag, 13.5” is ideal for productivity and portability Split the view in two. 15” is great for split-screen viewing of multiple apps side by side with Windows Snap Optimised 3:2 screen ratio is perfect for web browsing, research and reviewing finances Power to do what you want, from creative apps to casual gaming Great video calls, even in low light, with built-in HD camera backed by Studio Mics Breeze",
-      "price": 1499,
-      "specifications": {
-        "ModelNumber": "Microsoft Surface Laptop 4",
-        "Color": "Black",
-        "OS": "Windows 10 Home",
-        "Memory": "16512 GB"
-      },
-      "rating": 4.43,
-      "brand": "Microsoft Surface",
-      "category": "smartphones",
-      "image": "https://dummyjson.com/image/i/products/8/1.jpg",
       "qnty":1
     },
    {
