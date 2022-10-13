@@ -102,19 +102,6 @@
       "image": "https://m.media-amazon.com/images/I/410AvIMf2vL._SX300_SY300_QL70_FMwebp_.jpg",
       "thumbnails":["https://m.media-amazon.com/images/I/410AvIMf2vL._SX300_SY300_QL70_FMwebp_.jpg","https://m.media-amazon.com/images/I/51tLXun6YdL._SY550_.jpg","https://m.media-amazon.com/images/I/51UfViCaJSL._SX679_.jpg","https://m.media-amazon.com/images/I/51YDbXKVciL._SY550_.jpg","https://m.media-amazon.com/images/I/419pg5MCFSL._SY550_.jpg"],
       "qnty":1
-    },
-   {
-      "id":11,
-      "title":"perfume Oil",
-      "subTitle":"PERFUMERS CLUB Best Fragrance For Men | Set of 3 Eau De Parfum - 8ml Each |Refill For Lightr| Eau de Parfum - 24 ml",
-      "description":"Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil.One of the most common concentrations, second highest, and typically preforms very well in the longevity and projection category.Each one of our fragrances is created by perfumers trained in the ancient art of perfumery. Our laboratories make use of advanced scientific instruments to analyze the ingredients and formulas that used to create the great classic fragrances. Our perfumers then use this analysis to create fragrances that are inspired by these great fragrances yet remain affordable to all.",
-      "price":13,
-      "rating":3.5,
-      "brand":"Impression of Acqua Di Gio",
-      "category":"fragrances",
-      "image":"https://dummyjson.com/image/i/products/11/1.jpg",
-      "thumbnails":["https://dummyjson.com/image/i/products/11/1.jpg","https://dummyjson.com/image/i/products/11/2.jpg","https://dummyjson.com/image/i/products/11/3.jpg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TriU_GV3rXgRAv9piHOKwohxHZk-FtUI7A&usqp=CAU","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KFWN8Kx5Tpf77fXMCv1SA3ub16oSdIrC6Q&usqp=CAU"],
-      "qnty":1
-   }
+    }
 ]
 }
