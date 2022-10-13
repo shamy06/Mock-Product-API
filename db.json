@@ -72,15 +72,16 @@
    },
    {
       "id": 6,
-      "title": "MacBook Pro",
-      "subTitle":"13-inch MacBook Pro: Apple M1 chip",
-      "description": "M1 revolutionises the Laptop industry with SOC architecture to lead the industry to new heights. All the power with great efficiency as it even lasts loooonger now. Available in Space Grey and Silver colour. Up to 2.8X CPU performance, Up to 5X faster graphics, Up to 11x faster Neural Engine, Up to 20 hours of battery life. That’s 6 more hours, free of charge, Up to 2TB SSD storage, Up to 2X faster SSD, Wi-Fi 6 up to 1.2Gb/s throughput, Thunderbolt / USB 4 supports 6K External display, Data transfer up to 40Gb",
+      "title": "REDMI 10",
+      "subTitle":"REDMI 10 (Caribbean Green, 64 GB)  (4 GB RAM)",
+      "description": "Let go of the inhibitions and enjoy speed operation and flawless user experience with Redmi 10. This phone is powered by Snapdragon 680 processor with a savvy 6 nm architecture that makes juggling fun. This device is incorporated with 4 GB of RAM and 64 GB of internal storage that provides you with seamless efficiency. With the UFS 2.2 storage, you can experience an unmatched speed in the operation. This smartphone boasts a large 6000 mAh battery with an 18 W fast charging capability giving your phone a necessary boost to achieve optimal efficiency.",
       "price": 1749,
-      "specifications":{"ModelNumber":"MK1A3HN/A","Color":"Grey","OS":"8-core CPU with 4 performance cores and 4 efficiency cores","Memory":"256 GB SSD, Configurable up to 2TB"},
+      "specifications":{"ModelNumber":"MZB0B6VIN","Color":"Caribbean Green","OS":"Android 11","Memory":"64 GB"},
       "rating": 4.57,
-      "brand": "Apple",
+      "brand": "Redmi",
       "category": "smartphones",
-      "image": "https://dummyjson.com/image/i/products/6/4.jpg",
+      "image": "https://rukminim1.flixcart.com/image/416/416/l0tweq80/mobile/d/d/s/-original-imagcgtgyqebxqhx.jpeg?q=70",
+      "thumbnails":["https://rukminim1.flixcart.com/image/416/416/l0tweq80/mobile/d/d/s/-original-imagcgtgyqebxqhx.jpeg?q=70","https://rukminim1.flixcart.com/image/416/416/l0tweq80/mobile/v/t/q/-original-imagcgtgugzqxjxs.jpeg?q=70","https://rukminim1.flixcart.com/image/416/416/l0tweq80/mobile/d/e/e/-original-imagcgtgzykkqvgy.jpeg?q=70","https://rukminim1.flixcart.com/image/416/416/l0tweq80/mobile/d/d/r/-original-imagcgtgpfnu3nhh.jpeg?q=70","https://rukminim1.flixcart.com/image/416/416/l0tweq80/mobile/k/b/r/-original-imagcgtgbkgbdqay.jpeg?q=70"],
       "qnty":1
     },
     {
