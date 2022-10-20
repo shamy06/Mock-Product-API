@@ -4,7 +4,7 @@
       "id":1,
       "title":"iPhone 9",
       "subTitle":"APPLE iPhone 9 (Black, 64 GB)",
-      "shortDescription":"The iPhone 9 has a Liquid Retina Display that debuted the previous generation in the iPhones."
+      "shortDescription":"The iPhone 9 has a Liquid Retina Display that debuted the previous generation in the iPhones.",
       "description":"An all-new glass design, an updated camera, and a powerful chip, there's so much to love about the iPhone 9. This iPhone brings you an augmented reality experience that's more immersive than before. What's more? You can charge your iPhone wirelessly!",
       "price":54900,
       "specifications":{"ModelNumber":"MQ8E2HN/A","Color":"Black","OS":"ios 12","Memory":"64GB"},
@@ -94,7 +94,7 @@
       "id": 7,
       "title": "Reamlme C30",
       "subTitle": "realme C30 (Bamboo Green, 32 GB)  (2 GB RAM)",
-      "shortDescription":"2 GB RAM | 32 GB ROM | Expandable Upto 1 TB · 16.51 cm (6.5 inch) HD+ Display · 8MP Rear Camera."
+      "shortDescription":"2 GB RAM | 32 GB ROM | Expandable Upto 1 TB · 16.51 cm (6.5 inch) HD+ Display · 8MP Rear Camera.",
       "description": "Explore your inner self and be outspoken about it with the realme C30 smartphone which reflects your persona to the whole world with its intuitive nature. Powered by the Unisoc T612 processor, you can seamlessly multitask and get things done at your convenience. Furthermore, an 8 MP AI-driven rear camera and a 5 MP selfie camera allow you to capture stunning images with exceptional imagery. Moreover, this phone boasts 3 card slots which support a dual SIM setup with two slots and allow you to enjoy up to 1 TB of internal storage with the third slot.",
       "price": 1499,
       "specifications": {
