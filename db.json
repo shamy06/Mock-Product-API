@@ -11,8 +11,8 @@
       "rating":4,
       "brand":"Apple",
       "category":"smartphones",
-      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMxsLdiwH7-V6nwOXr05Bu5ygksZronDXfA1vnbD7EfEMt0hzoByuI9kmVqqhcYHdeKqg&usqp=CAU",
-      "thumbnails":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosuc5Fykq8OuYQ-KXp0oH5pOf0VMamC-Fnw&usqp=CAU","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU8zP-Q-U34eJU19fjDeFxsvY9VHYabwKkiQ&usqp=CAU","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMxsLdiwH7-V6nwOXr05Bu5ygksZronDXfA1vnbD7EfEMt0hzoByuI9kmVqqhcYHdeKqg&usqp=CAU","https://dummyjson.com/image/i/products/1/4.jpg","https://dummyjson.com/image/i/products/1/thumbnail.jpg"],
+      "image":"https://dummyjson.com/image/i/products/1/4.jpg",
+      "thumbnails":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosuc5Fykq8OuYQ-KXp0oH5pOf0VMamC-Fnw&usqp=CAU","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU8zP-Q-U34eJU19fjDeFxsvY9VHYabwKkiQ&usqp=CAU","https://dummyjson.com/image/i/products/1/4.jpg","https://dummyjson.com/image/i/products/1/thumbnail.jpg","https://dummyjson.com/image/i/products/1/4.jpg"],
       "qnty":1
    },
   {
